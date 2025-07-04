@@ -29,9 +29,9 @@ When users visit the site, a random username is generated and associated with a 
 
 ## 🔍 Preview
 
-> 📸 *Sample preview screenshot (update the image path once you upload it to your repo)*
+> 📸 *preview of lisper website*
 
-![LISPER Preview](./assets/lispr-preview.png)
+![LISPER Preview](https://github.com/umama-khanam/Lisper-A-secret-Access-Website-/commit/e50998d94ed4b7fd0f643eb8c87ad9a643a5c6b2)
 
 ---
 
